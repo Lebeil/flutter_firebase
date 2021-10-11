@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "94033241163",
+    "project_id": "flutter-liedel",
+    "storage_bucket": "flutter-liedel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94033241163:android:1304e1e111e382ec99d9ce",
+        "android_client_info": {
+          "package_name": "com.example.firebase_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94033241163-m6dj48tm1357i3jvgkql9lfs4l7bath9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDReqod-rV3z3gtVrorXtjEK-Z2ozDBz3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94033241163-m6dj48tm1357i3jvgkql9lfs4l7bath9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "94033241163-m4ea3hd2cd81dpb6t8pt3lc3bh342ucb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
